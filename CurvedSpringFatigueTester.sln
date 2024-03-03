@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurvedSpringFatigueTester", "CurvedSpringFatigueTester\CurvedSpringFatigueTester.csproj", "{9A8429F9-5558-46AA-87B7-86B90680382F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8429F9-5558-46AA-87B7-86B90680382F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8429F9-5558-46AA-87B7-86B90680382F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8429F9-5558-46AA-87B7-86B90680382F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8429F9-5558-46AA-87B7-86B90680382F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FC5A27-1D9E-49B1-B19D-3851AAB3B7EB}
+	EndGlobalSection
+EndGlobal

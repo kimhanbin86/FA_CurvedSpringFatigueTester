@@ -1,0 +1,5 @@
+﻿==================================================
+RMC (2021-12-02 11:12:41)
+==================================================
+No,DeviceType,IP,ConnectionTimeout_msec,Interval_Status_msec,Interval_Actual_msec,Interval_Graph_msec
+1,2,192.168.94.30,500,100,1,0
